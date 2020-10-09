@@ -66,5 +66,5 @@ api.add_resource(ItemList,'/items')
 
 # app.run(port=5000)
 
-if __name__ == '__main__':
-    app.run(debug=True)  # important to mention debug=True
+#if __name__ == '__main__':
+#    app.run(debug=True)  # important to mention debug=True
